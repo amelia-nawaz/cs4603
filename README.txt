@@ -13,5 +13,3 @@
 5.1 Model list is also available from left menu of your workspace -- AI/ML --> Models
 6. For the notebooks to demonstrate tracing and mlflow, you can start mlflow server with this command:
     mlflow ui --port 5000
-
-ANALYSIS QUESTIONS
